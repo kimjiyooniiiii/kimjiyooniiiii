@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=FDC2CA&text=Nice%20to%20meet%20you!&fontColor=5F5F5F&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FF6347&text=Nice%20to%20meet%20you!&fontColor=5F5F5F&fontSize=60)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_blue&show_icons=true)
 </div>
