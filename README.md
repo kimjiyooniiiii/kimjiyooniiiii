@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:coolcool35@naver.com)](mailto:coolcool35@naver.com)
 
 <Br><Br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
 </div>
