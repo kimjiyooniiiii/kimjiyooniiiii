@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 
 </div>
 
+<br>
+
+- 📖 컴퓨터를 깊이 알고싶은 백엔드 개발자 입니다.
+- 👨‍👧‍👦 다양한 사회경험으로 의사소통 능력이 뛰어납니다.
+- 🚴‍♀️ <u>주체적</u>으로 인생을 사는 멋진 사람입니다.
+
+<br>
+
 ### ⚙Tech⚙
 
 <div align="center">
@@ -41,6 +49,10 @@ Here are some ideas to get you started:
 
 <br>
 
+---
+
+<br>
+
 ### 💻Tools💻
 
 <div align="center">
@@ -53,6 +65,10 @@ Here are some ideas to get you started:
 
 <br>
 
+---
+
+<br>
+
 ### 📙최근 포스팅📙
 <div align="center">
 
@@ -61,13 +77,21 @@ Here are some ideas to get you started:
 <img width="60%" src="https://velog-readme-stats.vercel.app/api?name=wldbs35">
 </div>
 
-<Br>
+<br><br>
+
+---
+
+<br><br>
 
 ### 💯Github 점수💯
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
 </div>
+
+<br>
+
+---
 
 <br>
 
