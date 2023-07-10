@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 ### 💯Github 점수💯
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjiyooniiiii&theme=shadow_red&show_icons=true)
 </div>
 
 <br>
