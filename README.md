@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 </div>
 
 <br><br>
-
+<!--
 ---
 
 <br><br>
@@ -90,6 +90,7 @@ Here are some ideas to get you started:
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjiyooniiiii&theme=shadow_red&show_icons=true)
 </div>
+-->
 
 <br>
 
