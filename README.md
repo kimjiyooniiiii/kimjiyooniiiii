@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mariaDB-F06A6A?style=for-the-badge&logo=mariaDB&logoColor=white">
 <Br>
 <img src="https://img.shields.io/badge/gradle-239120?style=for-the-badge&logo=gradle&logoColor=white">
-<!--<img src="https://img.shields.io/badge/socket.io-175DDC?style=for-the-badge&logo=socket.io&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-00599C?style=for-the-badge&logo=firebase&logoColor=white">-->
-<img src="https://img.shields.io/badge/reactnative-00599C?style=for-the-badge&logo=reactnative&logoColor=white">
+<img src="https://img.shields.io/badge/mongoDB-00599C?style=for-the-badge&logo=mongoDB&logoColor=white">
 <Br>
 <img src="https://img.shields.io/badge/git-813588?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
