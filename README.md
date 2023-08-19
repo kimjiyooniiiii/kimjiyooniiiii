@@ -1,4 +1,4 @@
-
+  
 <!--
 **kimjiyooniiiii/kimjiyooniiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 - 🚴‍♀️ **<u>주체적</u>으로 인생을 사는 멋진 사람입니다.**
 
-<br><br>  
+<br> <br>  
 
 ### ⚙Tech⚙
 
