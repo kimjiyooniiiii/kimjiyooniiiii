@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+- 더 효과적인 기술을 찾아 Input 대비 Output이 큰 SW를 만드는 것이 목표인 개발자입니다.
 
 - 📖 **논리적으로 사고하고 문제를 해결합니다.**
   
