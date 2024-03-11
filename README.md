@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 --> 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Nice%20to%20meet%20you!&fontColor=404040&fontSize=70&fontAlignY=35)
-
+-->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=F3712F&text=Nice%20to%20meet%20you!&fontColor=404040&fontSize=70&fontAlignY=35)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=9F74D4&height=100&section=header&text=BackEnd%20Developer&fontSize=50" />
 
-</div>-->
+</div>
 
 <br>
 
@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 - 🚴‍♀️ **<u>주체적</u>으로 문제를 찾고 해결합니다.**
 -->
 
-<br> <br>  
-
-### ⚙Tech & Tools⚙
+<br><br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/java-F05032?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-FF9900?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-CC6699?style=for-the-badge&logo=springsecurity&logoColor=white">
