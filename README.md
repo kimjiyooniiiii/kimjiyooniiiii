@@ -24,12 +24,9 @@ Here are some ideas to get you started:
 
 <br>
 
-- 📖 **새로운 기술을 배우는 것을 두려워하지 않습니다.**
+- 💡 **Git Actions, AWS CodeDeploy로 CI/CD를 구축하여 빌드, 배포 시간 50초로 단축한 경험이 있다.**
 
-- 💡 **더 효과적인 방법을 찾아, Input 대비 Output이 큰 결과를 내는 것을 좋아합니다.**
-
-- 👨‍👧‍👦 **사람들과 협업하여 공동의 목표를 이뤄내는 것을 좋아합니다.**
-
+- 👨‍👧‍👦 **100개가 넘는 포스팅을 하며 꾸준하게 CS 공부를 해오고 있다.**
 
 <!--
   
@@ -45,16 +42,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-F05032?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-FF9900?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-CC6699?style=for-the-badge&logo=springsecurity&logoColor=white">
 
 <img src="https://img.shields.io/badge/mysql-569A31?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-569A31?style=for-the-badge&logo=mariaDB&logoColor=white">
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/git-4A154B?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-4A154B?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-232F3E?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
-
-<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 
 <h3> Knowledgeable </h3>
-<img src="https://img.shields.io/badge/JS-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/Html-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/React Native-569A31?style=for-the-badge"> <img src="https://img.shields.io/badge/Mongo DB-569A31?style=for-the-badge">
+<img src="https://img.shields.io/badge/JS-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/Html-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/MyBatis-FF9900?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/React Native-4479A1?style=for-the-badge">  <img src="https://img.shields.io/badge/Android Studio-4479A1?style=for-the-badge&logo=AndroidStudio&logoColor=white"> <img src="https://img.shields.io/badge/Mongo DB-569A31?style=for-the-badge">
 <br>
-<img src="https://img.shields.io/badge/Visual Studio Code-4479A1?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-  <img src="https://img.shields.io/badge/Android Studio-4479A1?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+  
+<h3> ETC </h3>
+<img src="https://img.shields.io/badge/git-4A154B?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-4A154B?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-232F3E?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-232F3E?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+
 </div>
 
 <br><br><br>
