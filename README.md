@@ -24,12 +24,14 @@ Here are some ideas to get you started:
 
 <br>
 
+- 📖 **새로운 기술을 배우는 것을 두려워하지 않습니다.**
+
 - 💡 **더 효과적인 방법을 찾아, Input 대비 Output이 큰 결과를 내는 것을 좋아합니다.**
 
 - 👨‍👧‍👦 **사람들과 협업하여 공동의 목표를 이뤄내는 것을 좋아합니다.**
 
+
 <!--
-- 📖 **논리적으로 사고하고 문제를 해결합니다.**
   
 - 👨‍👧‍👦 **다양한 사회경험으로 의사소통 능력이 뛰어납니다.**
   
@@ -39,23 +41,26 @@ Here are some ideas to get you started:
 <br><br>
 
 <div align="center">
+<h3> STRONG </h3>
 <img src="https://img.shields.io/badge/java-F05032?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-FF9900?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-CC6699?style=for-the-badge&logo=springsecurity&logoColor=white">
 
 <img src="https://img.shields.io/badge/mysql-569A31?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-569A31?style=for-the-badge&logo=mariaDB&logoColor=white">
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/git-4A154B?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-4A154B?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/git-4A154B?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-4A154B?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-232F3E?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
 
 <br>
 
-<img src="https://img.shields.io/badge/IntelliJ-4479A1?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-4479A1?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<h3> Knowledgeable </h3>
+<img src="https://img.shields.io/badge/JS-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/Html-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/React Native-569A31?style=for-the-badge"> <img src="https://img.shields.io/badge/Mongo DB-569A31?style=for-the-badge">
+<br>
+<img src="https://img.shields.io/badge/Visual Studio Code-4479A1?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/Android Studio-4479A1?style=for-the-badge&logo=AndroidStudio&logoColor=white">
 </div>
 
 <br><br><br>
 
-### ✏ CS 블로그 ✏
 <div align="center" width="50px">
+<h3>✏ CS 블로그 ✏</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wldbs35)](https://velog.io/@wldbs35) 
 
