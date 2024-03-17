@@ -44,30 +44,25 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-CC6699?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-CC6699?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-CC6699?style=for-the-badge&logo=springsecurity&logoColor=white">
 
 <img src="https://img.shields.io/badge/mysql-569A31?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-569A31?style=for-the-badge&logo=mariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 
 <h3> Knowledgeable </h3>
-<img src="https://img.shields.io/badge/JS-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/Html-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/MyBatis-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/Spring Data JPA-FF9900?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/MyBatis-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/Spring Data JPA-FF9900?style=for-the-badge"> <img src="https://img.shields.io/badge/Mongo DB-569A31?style=for-the-badge"> 
 
 
-<img src="https://img.shields.io/badge/React Native-4479A1?style=for-the-badge">  <img src="https://img.shields.io/badge/Android Studio-4479A1?style=for-the-badge&logo=AndroidStudio&logoColor=white"> <img src="https://img.shields.io/badge/Mongo DB-569A31?style=for-the-badge">
-<br>
-  
+<img src="https://img.shields.io/badge/Html-4479A1?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-4479A1?style=for-the-badge"> <img src="https://img.shields.io/badge/Java Script-4479A1?style=for-the-badge"> 
+
 <h3> ETC </h3>
-<img src="https://img.shields.io/badge/git-4A154B?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-232F3E?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-232F3E?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/git-4A154B?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 
 </div>
 
 <br><br><br>
 
 <div align="center" width="50px">
-<h3>✏ CS 블로그 ✏</h3>
+<h3>✏ CS 블로그 </h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wldbs35)](https://velog.io/@wldbs35) 
 
-<img src="https://velog-readme-stats.vercel.app/api?name=wldbs35">
 </div>
-
-<br><br>
 
 
