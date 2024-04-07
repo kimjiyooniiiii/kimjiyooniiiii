@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=venom&color=9F74D4&height=100&section=header&text=BackEnd%20Developer&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=9F74D4&height=100&section=header&text=Developer&fontSize=50" />
 
 </div>
 
