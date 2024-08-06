@@ -15,15 +15,18 @@ Here are some ideas to get you started:
 --> 
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Nice%20to%20meet%20you!&fontColor=404040&fontSize=70&fontAlignY=35)
--->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=9F74D4&height=70&section=header&text=Developer&fontSize=50" />
+</div>
 
 <Br><Br>
+-->
+<div align="center">
 <img width="60%" src="https://github.com/user-attachments/assets/793038c2-3923-4c84-a494-ca7b7f252f40" />
-
 </div>
+
 <!--
 - 💡 **Git Actions, AWS CodeDeploy로 CI/CD를 구축하여 빌드, 배포 시간 50초로 단축한 경험이 있다.**
 
