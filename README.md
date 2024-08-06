@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <Br><Br>
 -->
 <div align="center">
-<img width="60%" src="https://github.com/user-attachments/assets/793038c2-3923-4c84-a494-ca7b7f252f40" />
+<img width="40%" src="https://github.com/user-attachments/assets/793038c2-3923-4c84-a494-ca7b7f252f40" />
 </div>
 
 <!--
