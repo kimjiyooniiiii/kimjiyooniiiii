@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Nice%20to%20meet%20you!&fontColor=404040&fontSize=70&fontAlignY=35)
 -->
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=venom&color=9F74D4&height=100&section=header&text=Developer&fontSize=50" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=9F74D4&height=70&section=header&text=Developer&fontSize=50" />
+
+<Br><Br>
+<img width="60%" src="https://github.com/user-attachments/assets/793038c2-3923-4c84-a494-ca7b7f252f40" />
 
 </div>
-
-<br>
-
 <!--
 - 💡 **Git Actions, AWS CodeDeploy로 CI/CD를 구축하여 빌드, 배포 시간 50초로 단축한 경험이 있다.**
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 📒 **100개가 넘는 포스팅을 하며 꾸준하게 CS 공부를 해오고 있다.**
   
 - 🚴‍♀️ **<u>주체적</u>으로 문제를 찾고 해결합니다.**
--->
+
 
 <div align="center">
  <img src="https://img.shields.io/badge/STRONG-232F3E?style=for-the-badge&logoColor=black">  <img src="https://img.shields.io/badge/java-CC6699?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-CC6699?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-CC6699?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/mysql-569A31?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-569A31?style=for-the-badge&logo=mariaDB&logoColor=white">
@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 <h3> ETC </h3>
 <img src="https://img.shields.io/badge/git-4A154B?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 </div>
-
-<br>
+-->
 
 <div align="center" width="50px">
  
