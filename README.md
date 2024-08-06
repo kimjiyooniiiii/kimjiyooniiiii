@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <Br><Br>
 -->
 <div align="center">
-<img width="40%" src="https://github.com/user-attachments/assets/793038c2-3923-4c84-a494-ca7b7f252f40" />
+<img width="50%" src="https://github.com/user-attachments/assets/063c5930-bd19-442e-9876-ec83db75dba7" />
 </div>
 
 <!--
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-<div align="center" width="50px">
+<div align="center">
  
 ✏ [CS 블로그](https://velog.io/@wldbs35)
 
