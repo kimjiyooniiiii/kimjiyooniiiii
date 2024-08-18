@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-✏ [CS 블로그](https://velog.io/@wldbs35)
+✏ [CS 블로그](https://greatinfluence.tistory.com/)
 
 <!--  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=wldbs35)](https://velog.io/@wldbs35) -->
 
